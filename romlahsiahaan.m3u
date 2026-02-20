@@ -361,5 +361,5 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest.mpd
 #https://slive.mana2.my/AniPlus/index.mpd
 #https://cdn10jtedge.indihometv.com/atm/DASH/aniplus/manifest.mpd
 
-#EXTINF:-1 group-title="ih wibu" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png",animeks langsung dari sumber
+#EXTINF:-1 group-title="ih wibu" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png", animeks langsung dari sumber alias dari jepun aseli
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
