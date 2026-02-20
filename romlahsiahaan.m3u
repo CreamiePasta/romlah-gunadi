@@ -4,21 +4,21 @@
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c59d66dbf59245e9b14cb47862c456b7:247bb0f6d1c9d64f589d8b2f8e631a53
-#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="Digital kah? gatau gweh",trans pitu indijomok audio mono walawe indihomok kikir bener dah
+#EXTINF:-1 tvg-id="Trans 7" tvg-name="Trans 7" tvg-logo="https://object.streamized.net/img/trans7.png" group-title="Digital kah? gatau gweh",trans pitu indijomok audio mono walawe indihomok kikir bener dah
 https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest_wuseetv.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=685d124959a94f89872760636a868956:5cda423e983403ee02b24ac8643470ee
-#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://mimipipi22.github.io/logo/sports/beinsports.jpg" group-title="Digital kah? gatau gweh",trans tipi indijomok audio sama-sama mono walawe indihomok pelit
+#EXTINF:-1 tvg-id="Trans TV" tvg-name="Trans TV" tvg-logo="https://object.streamized.net/img/transtv.png" group-title="Digital kah? gatau gweh",trans tipi indijomok audio sama-sama mono walawe indihomok pelit
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest_wuseetv.mpd
 
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",indosari liga tawur
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari liga tawur
 http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 #http://filex.me:8080/live/000003/000003/302264.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
@@ -26,7 +26,7 @@ http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=7140692,AVERAGE-BANDWIDTH=7031069,RESOLUTION=1920x1020,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",indosari reso burik, motion blur bikin mata sakit
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari reso burik, motion blur bikin mata sakit
 http://filex.me:8080/live/000003/000003/302264.m3u8
 
 #EXT-X-VERSION:4
@@ -34,14 +34,14 @@ http://filex.me:8080/live/000003/000003/302264.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",essetepeh liga enggres
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://object.streamized.net/img/sctv.png" group-title="Digital kah? gatau gweh",essetepeh liga enggres
 http://mytv-extra.com:88/live/1827214806/9371309264/1067262.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",ersetei eko mastah sep
+#EXTINF:-1 tvg-id="RCTI" tvg-logo="https://object.streamized.net/img/rcti.png" group-title="Digital kah? gatau gweh",ersetei eko mastah sep
 http://103.146.197.250:25461/live/daeng/tmgrh/10.m3u8
 #http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
 
@@ -50,31 +50,31 @@ http://103.146.197.250:25461/live/daeng/tmgrh/10.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",emensitipi upin dan Ipin inilah dia
+#EXTINF:-1 tvg-id="MNC TV" tvg-logo="https://object.streamized.net/img/mnctv.png" group-title="Digital kah? gatau gweh",emensitipi upin dan Ipin inilah dia
 http://103.146.197.250:25461/live/daeng/tmgrh/11.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="GTV" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",jetivi spogob famili seratus kenapa irpan hakim lagi yang jadi host dah
+#EXTINF:-1 tvg-id="GTV" tvg-logo="https://object.streamized.net/img/gtv.png" group-title="Digital kah? gatau gweh",jetivi spogob famili seratus kenapa irpan hakim lagi yang jadi host dah
 http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
 #http://filex.me:8080/live/000003/000003/302247.m3u8
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
 #EXT-X-STREAM-INF:BANDWIDTH=6140692,AVERAGE-BANDWIDTH=6031069,RESOLUTION=1020x720,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-#EXTINF:-1 tvg-id="iNews" tvg-logo="https://www.google.com/search?client=ms-android-xiaomi-terr1-rso2&hs=IaiU&sca_esv=99a15385a3b5aa7c&sxsrf=ANbL-n7-7nV3gcMpKdS83Cs_Qsos3OQybA:1771565444983&udm=2&fbs=ADc_l-YVL4OwMfqN3pV4k0qnUl_hoV_waQqDwAc6YQfUlGhQzeeQ74_gIEtxBPVzgYx4V0r1GTrLUl1risdViXHY4OFZC6Vf1CDhefyuNJ3VA_1o_vrnb4K0GArg5ACn1Ido_ukGf1L2bkiyAPKBHrM6QvwUetso5A1QMfwins1gUGUZd6HkBi27U6ZG8_c3HRJvgd6CyHnb9AtBszPPaM6RvEOGdemAEY_zMhlJ8PVglAT0EcXF44I&q=tv+logo+png&sa=X&sqi=2&ved=2ahUKEwi2p63Iq-eSAxVEzjgGHapPIAAQtKgLegQIEhAB&biw=663&bih=1349&dpr=1.09#sv=CAMSURoyKhBlLWpIbjFWRF9qZlQwNjhNMg5qSG4xVkRfamZUMDY4TToORTNVSTNMYTJibkRDYk0gBCoXCgFzEhBlLWpIbjFWRF9qZlQwNjhNGAEwARgHILrAi5QJMAFKCBACGAIgAigC" group-title="Digital kah? gatau gweh",ainyus tipi berita pak tanoe
+#EXTINF:-1 tvg-id="iNews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="Digital kah? gatau gweh",ainyus tipi berita pak tanoe
 http://mytv-extra.com:88/live/1827214806/9371309264/149820.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxedX4yS-4XhyUfJlsi5FmHfos7iVuZvuBMeLwoHG5hg&s=10" group-title="Digital kah? gatau gweh",vitipi tipi kartun gak laku ada wm youtv walawe
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/vtv.png" group-title="Digital kah? gatau gweh",vitipi tipi kartun gak laku ada wm youtv walawe
 https://flv.intechmedia.net/live/ch107.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Tipi sprot",skai sprot epwan enggres
 https://a1xs.vip/2000005
-https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
+#https://wahyu1ptv.pages.dev/SkySportF1-HD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Tipi sprot",skai sprot epwan mamamia
