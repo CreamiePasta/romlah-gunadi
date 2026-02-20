@@ -322,17 +322,17 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
 
 # PSN #
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 1 tripaloski
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/psn.webp" group-title="Tipi sprot", psn 1 tripaloski
 https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 2 tripaloski
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/psn.webp" group-title="Tipi sprot", psn 2 tripaloski
 https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 3 tripaloski
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/psn.png" group-title="Tipi sprot", psn 3 tripaloski
 https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 4 tripaloski suka blyat
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 4 tripaloski suka blyat
 https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo=https://object.streamized.net/img/psn.png"" group-title="Tipi sprot", psn 5 tripaloski priviet
+#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/psn.png" group-title="Tipi sprot", psn 5 tripaloski priviet
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
