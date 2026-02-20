@@ -1,4 +1,6 @@
-#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="24" billed-msg="Ini cuma testing, all channel didapat dari berbagai source dan dicari secara manual"
+#EXTM3U x-tvg-url="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml" refresh="24" billed-msg="Ini cuma testing, all channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
+
+-- Indonesia --
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
@@ -71,6 +73,10 @@ http://mytv-extra.com:88/live/1827214806/9371309264/149820.m3u8
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/vtv.png" group-title="Digital kah? gatau gweh",vitipi tipi kartun gak laku ada wm youtv walawe
 https://flv.intechmedia.net/live/ch107.m3u8
 
+-- Worldwide Sports --
+
+# Sky Sports #
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" group-title="Tipi sprot",skai sprot epwan enggres
 https://a1xs.vip/2000005
@@ -88,6 +94,8 @@ https://wahyu1ptv.pages.dev/SkySportMotoGP-HD.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Tipi sprot",skai sprot liga enggres
 https://a1xs.vip/2000002
 
+# NBA TV #
+
 #EXTINF:-1 tvg-id="NBA.TV.id" tvg-name="NBA TV" tvg-logo="https://mimipipi22.github.io/logo/sports/nbatv.jpg" group-title="Tipi sprot",enbie tipi basket indijomok
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -101,6 +109,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/nba/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 https://fl1.moveonjoy.com/NBA_TV/index.m3u8
+
+# Fox Sports #
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-659f04ef27ae392d2e204695" tvg-logo="https://i.ibb.co/vx6X9LXV/FS1.jpg" group-title="Tipi sprot",efes satu fox sprot mexico mamarika a1xmedia
@@ -140,6 +150,8 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/wybgz0orr8/out/v1/2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7d7a8c6981a842b98a683e9fbfe51d17/cenc.mpd
 
+# TNT SPORTS #
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS1.png" group-title="Tipi sprot",tnt sprot 1
 https://a1xs.vip/2000021
 
@@ -154,6 +166,8 @@ https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="Tipi sprot",tnt sprot 5 bug kedip
 http://lucidhosting.xyz:82/derekwinford@gmail.com/Q8HK07JwzL/279499
+
+# SPOTV #
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
@@ -191,6 +205,8 @@ https://qp-pldt-live-grp-11-prod.akamaized.net/out/u/dr_spotvhd.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7eea72d6075245a99ee3255603d58853:6848ef60575579bf4d415db1032153ed
 https://qp-pldt-live-grp-13-prod.akamaized.net/out/u/dr_spotv2hd.mpd
+
+# Bein Sports #
 
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -303,3 +319,20 @@ https://api-proxad.dc2.oqee.net/playlist/v1/live/976/1/live.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","kid":"RSbM19SZsLJAEc5a3OGGVg","k":"PS7YDPH1qaS5p2IbnmxOKg"},{"kty":"oct","kid":"4gBtijMCXNeUOl8CABeB7A","k":"Ncey7Cfys3SScHqLTNNxVA"},{"kty":"oct","kid":"GjGJTwxBoP4MUIeE0NFWmw","k":"EhFkMR97MIo35VBLcXrj1Q"},{"kty":"oct","kid":"qNXw4AIU43d9dbibBdr2TQ","k":"8DceiPbCv3hE1p2bngpSrw"}]}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/977/1/live.mpd
+
+# PSN #
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",PSN 1
+https://cdn4.skygo.mn/live/disk1/SPSPrime/HLSv3-FTA/SPSPrime.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",PSN 2
+https://cdn4.skygo.mn/live/disk1/SPSPlay/HLSv3-FTA/SPSPlay.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",PSN 3
+https://cdn4.skygo.mn/live/disk1/SPSNational/HLSv3-FTA/SPSNational.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",PSN 4
+https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="WORLD SPORTS",PSN 5
+https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
