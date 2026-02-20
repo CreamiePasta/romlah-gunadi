@@ -43,7 +43,7 @@ http://mytv-extra.com:88/live/1827214806/9371309264/1067262.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="RCTI" tvg-logo="https://object.streamized.net/img/rcti.png" group-title="Digital kah? gatau gweh",ersetei eko mastah sep
 http://103.146.197.250:25461/live/daeng/tmgrh/10.m3u8
-#http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
+http://exm3u.extraott.com:80/live/GLN5LOU96J/9SWP83GC/149818.m3u8
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -59,7 +59,7 @@ http://103.146.197.250:25461/live/daeng/tmgrh/11.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 tvg-id="GTV" tvg-logo="https://object.streamized.net/img/gtv.png" group-title="Digital kah? gatau gweh",jetivi spogob famili seratus kenapa irpan hakim lagi yang jadi host dah
 http://103.146.197.250:25461/live/daeng/tmgrh/13.m3u8
-#http://filex.me:8080/live/000003/000003/302247.m3u8
+http://filex.me:8080/live/000003/000003/302247.m3u8
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
