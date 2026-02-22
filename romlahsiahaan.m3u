@@ -560,3 +560,8 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
+
+-- News --
+
+#EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==" group-title="berita faktual anget habis diangkat dari wajan",LiveNOW from FOX
+https://m.youtube.com/watch?v=ZvdiJUYGBis
