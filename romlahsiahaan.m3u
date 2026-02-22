@@ -4,6 +4,11 @@ Walawe breeeee...
 
 -- Indonesia --
 
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+#EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",ANTEPEH
+http://filex.me:8080/live/MAS101A/MAS101AABB/302206.m3u8
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -564,4 +569,4 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 -- News --
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==" group-title="berita faktual anget habis diangkat dari wajan",LiveNOW from FOX
-https://m.youtube.com/watch?v=ZvdiJUYGBis
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
