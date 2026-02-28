@@ -280,9 +280,6 @@ https://a1xs.vip/2000005
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #EXTINF:-1 tvg-logo="https://object.streamized.net/img/skysportsf1.webp" group-title="Tipi sprot",skai sprot epwan spanyol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ae7f16191e2adfaacd9b536ed58a298a:3319b3ca5cd6f0af2f3d4bd9a7630a8b
-https://nog-live1-ott.izzigo.tv/8/out/u/dash/F1HDH265/default.mpd
 http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
@@ -381,15 +378,23 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/dash/enc/fdx74zqzhu/out/v1/7
 # TNT SPORTS #
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS1.png" group-title="Tipi sprot",tnt sprot 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts1
 https://a1xs.vip/2000021
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS2.png" group-title="Tipi sprot",tnt sprot 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts2
 https://a1xs.vip/2000022
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS3.png" group-title="Tipi sprot",tnt sprot 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts3
 https://a1xs.vip/2000023
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS4.png" group-title="Tipi sprot",tnt sport 4
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS4.png" group-title="Tipi sprot",tnt sprot 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
+https://7pal.short.gy/tntspts4
 https://a1xs.vip/2000024
 
 #EXTINF:-1 tvg-logo="http://drewlive2423.duckdns.org:9000/Logos/DrewLiveTV2.png" group-title="Tipi sprot",tnt sprot 5 bug kedip
@@ -634,23 +639,44 @@ https://cdn4.skygo.mn/live/disk1/SPSFight/HLSv3-FTA/SPSFight.m3u8
 https://cdn4.skygo.mn/live/disk1/SPSPlus/HLSv3-FTA/SPSPlus.m3u8
 
 #EXTINF:-1 tvg-id="TSN.1.ca2" tvg-name="TSN1" tvg-logo="https://i.ibb.co/MyTbNgYX/TSN1.png" group-title="Tipi sprot",tsn 1
+http://206.212.244.71:8080/live/Jamesmcmillan@att.net/Jamesmcmillan@2023/57292.m3u8
 https://a1xs.vip/6000001
 
 #EXTINF:-1 tvg-id="TSN.2.ca2" tvg-name="TSN2" tvg-logo="https://i.ibb.co/fzHfwF5j/TSN2.png" group-title="Tipi sprot",tsn 2
+https://stream.decentdoubts.net/806/index.m3u8
 https://a1xs.vip/6000002
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN3" tvg-logo="https://i.ibb.co/0RMWTVX5/TSN3.png" group-title="Tipi sprot",tsn 3
 https://a1xs.vip/6000003
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="Tipi sprot",tsn 4
+http://206.212.244.71:8080/live/Jamesmcmillan@att.net/Jamesmcmillan@2023/66783.m3u8
 https://a1xs.vip/6000004
+https://stream.decentdoubts.net/701/index.m3u8
 
 #EXTINF:-1 tvg-id="TSN.5.ca2" tvg-name="TSN5" tvg-logo="https://i.ibb.co/gZMsLrtP/TSN5.png" group-title="Tipi sprot",tsn 5
+http://206.212.244.71:8080/live/Jamesmcmillan@att.net/Jamesmcmillan@2023/57467.m3u8
 https://a1xs.vip/6000005
+https://stream.decentdoubts.net/809/index.m3u8
+
+#EXTINF:-1 tvg-chno="103" tvg-id="NBC.Sports.Bay.Area.HD.us2" tvg-name="NBC Sports Bay Area" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s63138_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Bay Area
+http://mytvstream.net:8080/live/bn80NG/909467/9900.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-id="NBC.Sports.Boston.HD.us2" tvg-name="NBC Sports Boston" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49198_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Boston
+http://mytvstream.net:8080/live/bn80NG/909467/20939.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="NBC.Sports.California.SAT.us2" tvg-name="NBC Sports California" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45540_dark_360w_270h.png" group-title="tipi sprot",NBC Sports California
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136474.ts
+
+#EXTINF:-1 tvg-chno="106" tvg-id="a90a91570ce0536cbb22b591ad7e0da2" tvg-name="NBC Sports NOW" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_dark_360w_270h.png" group-title="tipi sprot",NBC Sports NOW
+https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
+
+#EXTINF:-1 tvg-chno="107" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Philadelphia
+http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 
 -- Knowledge --
 
-#EXTM3U#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://object.streamized.net/img/animalplanet.png" group-title="ketahuilah",planet binatang
+#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://object.streamized.net/img/animalplanet.png" group-title="ketahuilah",planet binatang
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29089.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29088.m3u8
