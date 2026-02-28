@@ -674,13 +674,6 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
 #EXTINF:-1 tvg-chno="107" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Philadelphia
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 
--- Knowledge --
-
-#EXTINF:-1 tvg-id="AnimalPlanet" tvg-name="AnimalPlanet" tvg-logo="https://object.streamized.net/img/animalplanet.png" group-title="ketahuilah",planet binatang
-#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29089.m3u8
-http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29088.m3u8
-
 -- Animation Stuff --
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
