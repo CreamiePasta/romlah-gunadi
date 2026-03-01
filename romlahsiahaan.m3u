@@ -16,6 +16,13 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 #EXTINF:-1 tvg-id="ANTV" tvg-name="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",ANTEPEH
 http://filex.me:8080/live/MAS101A/MAS101AABB/302206.m3u8
 
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Digital kah? gatau gweh",antepeh v+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/0a6c6b1534444ab4bd903af8761e6747/index.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #KODIPROP:mimetype=application/dash+xml
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -40,11 +47,12 @@ http://103.146.197.250:25461/live/daeng/tmgrh/16.m3u8
 #http://filex.me:8080/live/000003/000003/302264.m3u8
 #http://xtv.ooo:8080/live/150324003/11150324/350972.m3u8
 
-#EXT-X-VERSION:4
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXT-X-STREAM-INF:BANDWIDTH=7140692,AVERAGE-BANDWIDTH=7031069,RESOLUTION=1920x1020,FRAME-RATE=25.000,CODECS="avc1.64001F,mp4a.40.2",AUDIO="audio_0"
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari reso burik, motion blur bikin mata sakit
-http://filex.me:8080/live/000003/000003/302264.m3u8
+#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/indosiar.png" group-title="Digital kah? gatau gweh",indosari v+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=39ac94d05c47441d9043986be1929ed7:500d9ea85684aa402e658422ec11a719
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d2tjypxxy769fn.cloudfront.net/out/v1/bb2b6e6606cb417f807fa017c1a2aa7f/index.mpd
 
 #EXT-X-VERSION:4
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -799,13 +807,6 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/ind
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
-
-#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://id.wikipedia.org/wiki/Berkas:SindoNewsTV_2023.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d43tg978oium5.cloudfront.net/out/v1/8c2df39f9b2842fbb997b89378841ad9/index.mpd
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==" group-title="berita faktual anget habis diangkat dari wajan",LiveNow from Fox (tipi berita mamarika anjae)
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-livenowbyfox-lgus/playlist.m3u8
