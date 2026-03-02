@@ -871,3 +871,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 #EXTINF:-1 tvg-id="19" tvg-logo="https://object.streamized.net/img/tvone.png" group-title="berita faktual anget habis diangkat dari wajan",tipi satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
 https://flv.intechmedia.net/live/ch109.m3u8
+
+-- Music --
+
+#EXTINF:-1 tvg-id="Prambors" tvg-name="Prambors" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QW1lcmljYS9FZG1vbnRvbg%3D%3D&date=20260301&channel_id=411985" tvg-logo="https://props.id/portfolio/prambors-app-user-engagement-grows-14x-by-enabling-props-push-notifications-service/" group-title="musikkkk",prambors tipi
+https://cdn10jtedge.indihometv.com/atm/DASH/pramborstv/manifest.mpd
