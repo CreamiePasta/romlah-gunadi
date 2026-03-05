@@ -741,6 +741,7 @@ http://104.238.222.251:9090/161287_.m3u8
 
 #EXTINF:-1 tvg-id="TSN.3.ca2" tvg-name="TSN3" tvg-logo="https://i.ibb.co/0RMWTVX5/TSN3.png" group-title="tsn kanada",tsn 3 alternatif
 http://104.238.222.251:9090/161288_.m3u8
+https://7pal.short.gy/tsn3ca
 
 #EXTINF:-1 tvg-id="TSN.4.ca2" tvg-name="TSN4" tvg-logo="https://i.ibb.co/jZgYf8yP/TSN4.png" group-title="tsn kanada",tsn 4 alternatif
 http://79.143.17.114:9090/161289_.m3u8
