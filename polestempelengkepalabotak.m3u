@@ -86,3 +86,8 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3308.m3u8
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000#EXTINF:-1 tvg-id="ANTV" tvg-logo="https://object.streamized.net/img/antv.png" group-title="Test",Liga Spanyol 2
 http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/3309.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnjktbpid02.transvision.co.id/image/web/channel/4028c6857e04fca5017ec528dc550e98/bca939f249ba4f6d8af93435d18d37a5.jpg" group-title="musikkkk",musik indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7f7152a9081e442a139af4cff0878c49:e061900f5dc7bc57c3783e99305b7745
+https://cdn10jtedge.indihometv.com/dass/mpd-vo/musikindo/manifest_wuseetv.mpd
