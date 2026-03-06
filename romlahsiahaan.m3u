@@ -118,6 +118,12 @@ https://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&userid=li
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
 http://103.66.62.83:8000/play/a00i/index.m3u8
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTINF:-1 tvg-id="Moji" tvg-name="Moji" tvg-logo="https://object.streamized.net/img/moji.png" group-title="Digital kah? gatau gweh",moji tipi proliga 2
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+https://wahyu1ptv.pages.dev/Moji-HD.m3u8
+
 #EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://object.streamized.net/img/antv.png" group-title="non-digital",antepeh v+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=251c384e846841abafa1f7c723d57e66:e45b06a38cd261b74c5160f0912c042f
@@ -1030,6 +1036,13 @@ https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
 https://flv.intechmedia.net/live/ch109.m3u8
 
 -- Music --
+
+#EXTINF:-1 group-title="musikkkk" tvg-logo="https://object.streamized.net/img/Musictv.png",musik tipi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=55d8bf610e3142408ecfa5295d7eba39:0774f3ae6ea32f9b4c24896f1fb5bb40
+https://d84q7nw4qf3j3.cloudfront.net/out/v1/c20d75deb06f401aa89681a9e5054de7/index.mpd
 
 #EXTINF:-1 tvg-id="Prambors" tvg-name="Prambors" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QW1lcmljYS9FZG1vbnRvbg%3D%3D&date=20260301&channel_id=411985" tvg-logo="https://props.id/portfolio/prambors-app-user-engagement-grows-14x-by-enabling-props-push-notifications-service/" group-title="musikkkk",prambors tipi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
