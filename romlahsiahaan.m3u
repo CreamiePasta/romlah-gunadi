@@ -275,6 +275,12 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 #EXTINF:-1 tvg-name="Redbull TV" tvg-logo="https://www.coolstreaming.us/img/ch/ima45327726984.jpg" group-title="Tipi sprot", banteng merah (tapi bukan yang itu yah)
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"1539f043249e413d91906036f305831e":"671e24fd8d234c7f38d85055815f902a"}
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Tipi sprot",saluran gelut
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
+
 # Vision+ Sports #
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/68y2OmC.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Tipi sprot",channel bola pision plus-plus
@@ -294,12 +300,14 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4035323a7fe64767ab8f3345ed9b93be":"67377b8d429603f8bf30c161bda269e5"}
 #EXTINF:-1 tvg-id="Sportstars.2.id" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.visionplus.id/images/repository/653/653-LOGO-m.png" group-title="Tipi Sprot",bintang olahraga 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=9999&type=fitnah
-#EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="Tipi sprot", bintang olahraga 3
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Sportstars.3.id" tvg-name="Sportstars 3" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://www.visionplus.id/images/repository/654/654-LOGO-m.png" group-title="Tipi sprot", bintang olahraga 3 (widevine)
 https://boti.my.id/saya.mpd?id=9999&type=backdoor
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -324,11 +332,18 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
 #EXTINF:-1 tvg-id="V+" tvg-logo="https://www.visionplus.id/images/repository/273/468273-LOGO-m.png" group-title="Tipi sprot", v+ live 3
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7d7d1ad3a3664f5898439137c4430704:7fcca69a958734e4fa4cb5fa131c1075
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=1012&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
+https://boti.my.id/saya.mpd?id=1012&type=backdoor
+
+#EXTINF:-1 tvg-id="V+" tvg-logo="https://www.visionplus.id/images/repository/273/468273-LOGO-m.png" group-title="Tipi sprot", v+ live 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=1013&type=fitnah
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://boti.my.id/saya.mpd?id=1013&type=backdoor
 
 # Sky Sports #
 
@@ -1019,7 +1034,7 @@ https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://id.wikipedia.org/wiki/Berkas:DW_%28TV%29_Logo_2012.png" group-title="berita faktual anget habis diangkat dari wajan",dw v+
 https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/index.mpd
 
-#EXTINF:-1 tvg-id="iNews.id" tvg-name="Inews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="berita faktual anget habis diangkat dari wajan",ainyus tipi
+#EXTINF:-1 tvg-id="iNews.id" tvg-name="Inews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="berita faktual anget habis diangkat dari wajan",ainyus tipi 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ee7df15ff584967a3eb7b885bafc71e:9a297bf2200eee7dee21b9ace9f57c77
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1027,9 +1042,9 @@ https://dv6fza91pwlw3.cloudfront.net/out/v1/3c64eec3b1594ec98aa758ed334fa6a0/ind
 https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
-#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://id.wikipedia.org/wiki/Berkas:SindoNewsTV_2023.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi
+#EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://www.visionplus.id/images/repository/263/514263-LOGO-m.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi )widevine)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=sindonews&type=fitnah
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=5&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 https://boti.my.id/saya.mpd?id=5&type=backdoor
