@@ -325,6 +325,13 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/89a6e4261cd7470f83e5869e90440cff/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 tvg-id="V+" tvg-logo="https://www.visionplus.id/images/repository/273/468273-LOGO-m.png" group-title="Tipi sprot", v+ live 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7d7d1ad3a3664f5898439137c4430704:7fcca69a958734e4fa4cb5fa131c1075
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/index.mpd
+
 # Sky Sports #
 
 #EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://i.imgur.com/gBtWXwY.png" group-title="skai sprot",skai sprot main event
@@ -1023,10 +1030,10 @@ https://d2tjypxxy769fn.cloudfront.net/out/v1/7b0404cd6a8a4a908123f10774854e46/in
 https://fta2-cdn-flr.visionplus.id/out/v1/7b0404cd6a8a4a908123f10774854e46/index.mpd
 
 #EXTINF:-1 tvg-id="Sindonews.id" tvg-name="sindonews" tvg-logo="https://id.wikipedia.org/wiki/Berkas:SindoNewsTV_2023.png" group-title="berita faktual anget habis diangkat dari wajan",sindonyus tipi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://boti.my.id/saya.suka?id=sindonews&type=fitnah
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#https://cdn10jtedge.indihometv.com/atm/DASH/mncnews/manifest.mpd
 https://boti.my.id/saya.mpd?id=5&type=backdoor
 
 #EXTINF:-1 tvg-logo="https://canvas-lb.tubitv.com/opts/cAw_Vy70Jq8YoQ==/f71c682e-37f8-4719-aa89-546d1c4c8bfe/CHgQeDoFMS4xLjhAAQ==" group-title="berita faktual anget habis diangkat dari wajan",LiveNow from Fox (tipi berita mamarika anjae)
