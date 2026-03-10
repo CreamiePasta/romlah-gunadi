@@ -307,7 +307,7 @@ https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
 -- Movies & Entertainment
 
-## HBO incoming! Just wait! ##
+## All HBO incoming! Just wait! ##
 
 #EXTINF:-1 tvg-id="Studio Universal" tvg-name="Studio Universal" tvg-logo="https://object.streamized.net/img/studiouniversal.png" group-title="film dan apalah", studio universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -367,7 +367,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://object.streamized.net/img/rockEntertainment.png" group-title="film dan apalah", rock entertainment
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="Cineedge" tvg-name="Cineedge" tvg-logo"https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="film dan apalah", cineedge
+#EXTINF:-1 tvg-id="Cineedge" tvg-name="Cineedge" tvg-logo="https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="film dan apalah", cineedge
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -388,7 +388,15 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
 
-## HBO incoming! Just wait! ##
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-id="HBO.HD.id" group-title="film dan apalah" tvg-logo="https://object.streamized.net/img/hbo.png", hbo
+https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
+
+## All HBO incoming! Just wait! ##
 
 -- Worldwide Sports --
 
