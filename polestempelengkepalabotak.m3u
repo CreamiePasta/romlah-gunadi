@@ -254,3 +254,41 @@ https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy2
 #KODIPROP:inputstream.adaptive.license_key=20c884ef8ed26b2762f8b1a78f2d1910:042a21bf236ca729b1e343ed6e0a6337
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
 https://raw.githubusercontent.com/Cutsiffa/Cutsiffa/refs/heads/main/Spl_1/Benmy3.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ppdd02.dtfjinikdinbiframe.shop/
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT--http-reconnect=true
+#EXTVLCOPT:http-origin=https://ppdd02.dtfjinikdinbiframe.shop
+#EXTINF:-1 tvg-id="" tvg-name="✦●✦ LIVE ONLY ✦●✦" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/indosiar.png" group-title="Sport_Id", INDOSIAR
+https://raw.githubusercontent.com/quuen2024/EmyLie/refs/heads/queen/indo.m3u8
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/liga_pengadian2.png" group-title="Sport_Id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/liga_pengadian2.png" ch-number="1", LIGA BRI/PEGADAIAN (AKTIF SAAT LIVE)
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100
+http://103.66.62.83:8000/play/a00o/index.m3u8
+
+#EXTINF:-1 group-title="Sport_Id" tvg-id="rctiplus.id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/rcti_sport.png", RCTI SPORT
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100
+http://103.66.62.83:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="MNCTV.id" tvg-name="MNC TV" group-title="Sport_Id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/mnctvsport.png",MNCTV Sports
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100
+http://103.66.62.83:8000/play/a00w/index.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="iNews" group-title="Sport_Id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/inewssport.png",iNEWS Sports
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100
+http://iptvtree.net:8080/F33848/cbd9779b/157579
+
+#EXTINF:-1 group-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctvsport.png" group-title="Sport_Id" tvg-logo="https://raw.githubusercontent.com/quuen2024/logo-versi/refs/heads/queen/sctvsport.png" ch-number="1", SCTV SPORTS
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=1544100
+http://103.66.62.83:8000/play/a00z/index.m3u8
