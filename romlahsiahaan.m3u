@@ -412,10 +412,10 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
-#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="film dan apalah" tvg-logo="https://object.streamized.net/img/hbofamily.png", hbo family (alternatif)
-#https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
 https://indihuy.streamized.net/atm/mpd-vo/hbofamily/manifest.mpd
+#https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
@@ -1204,8 +1204,8 @@ http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
 #EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://object.streamized.net/img/animax.png" group-title="ih wibu",animeks hade media pertama
-https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
-https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+#https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
+#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -1333,6 +1333,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 https://op-group1-swiftservehd-1.dens.tv/h/h12/01.m3u8
+
+#EXTINF:-1 group-title="berita faktual anget habis diangkat dari wajan" tvg-logo="https://object.streamized.net/img/metrotv.png",metro tipi (alternatif)
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://edge-medcom.streamized.net/live-edge/smil:metro.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="19" tvg-logo="https://object.streamized.net/img/tvone.png" group-title="berita faktual anget habis diangkat dari wajan",tipi satu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64)
