@@ -415,7 +415,7 @@ https://cdnjkt913.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d05592
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="HBO.Family.HD.id" group-title="film dan apalah" tvg-logo="https://object.streamized.net/img/hbofamily.png", hbo family (alternatif)
 https://indihuy.streamized.net/atm/mpd-vo/hbofamily/manifest.mpd
-#https://cdn10jtedge.indihometv.com/atm/mpd-vo/hbofamily/manifest.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://cubmu.caranytv.workers.dev/trv
