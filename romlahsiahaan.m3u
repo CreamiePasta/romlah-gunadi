@@ -562,7 +562,7 @@ https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
 
 # Extreme Sports #
 
-#EXTINF:-1 tvg-name="Redbull TV" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=527269" group-title="Sports", Redbull TV
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Red_Bull_TV.png" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=527269" group-title="Sports", Red Bull TV
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
