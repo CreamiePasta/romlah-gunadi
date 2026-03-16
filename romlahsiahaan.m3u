@@ -285,52 +285,52 @@ https://ott-balancer.tvri.go.id/live/eds/Sumut/hls/Sumut.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JmF1Csj.png" group-title="TVRI",TVRI Yogyakarta
 https://ott-balancer.tvri.go.id/live/eds/Jogjakarta/hls/Jogjakarta.m3u8
 
--- Movies, Entertainment & Knowledge --
+-- Movies, Entertainment, Animation & Knowledge --
 
-#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object.streamized.net/img/hgtv.webp" group-title="Movies, Entertainment & Knowledge", HGTV
+#EXTINF:-1 tvg-id="HGTV" tvg-name="HGTV Asia" tvg-logo="https://object.streamized.net/img/hgtv.webp" group-title="Movies, Entertainment, Animation & Knowledge", HGTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f1e8c2d97a3b4f5d8c669d1a2b7e4c30:03aaa7dcf893e6b934aeb3c46f9df5b9
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hgtv_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" tvg-logo="https://object.streamized.net/img/studiouniversal.png" group-title="Movies, Entertainment & Knowledge", Studio Universal
+#EXTINF:-1 tvg-id="Studio Universal.id" tvg-name="Studio Universal" tvg-logo="https://object.streamized.net/img/studiouniversal.png" group-title="Movies, Entertainment, Animation & Knowledge", Studio Universal
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4a7b3289eff493d8700becf2e2a1157:bfbcfcb8137dd565a7f4b5ce7800c1f0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment & Knowledge", Hits
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e9d9ca2bb814de9bfd73d7c19bfe190:e8c178a885d1a1e042ca34ec5ea3b938
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/333a9658ed6a4424a92e319114fb7111/index.mpd
 
-#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment & Knowledge", Hits (Alternatif No Sub)
+#EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits (Alternatif No Sub)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6d2f8a1c9b5e4c7da1f03e7b9d6c2a55:37c9835795779f8d848a6119d3270c69
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/hits_hd1/default/index.mpd
 
-#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment & Knowledge", Hits Now
+#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits Now
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26bfec0f1cb047d7963f37e1b6401ec0:60e2302b29cb9cabf7e1743fc2f0f059
 https://atemeshield1-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/HITSNowHD/mediampd/HITSNowHD.mpd
 
-#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment & Knowledge", Hits Now (Alternatif)
+#EXTINF:-1 tvg-id="HITSNow.id" tvg-name="HITS NOW" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits Now (Alternatif)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d71c326133b743daac90b64e0a0ac488:fb19cdf9aeffdd39b4a06b363a2b5ff8
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/73b9fdd0cd0e4570b482c92fa43ecda9/index.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object.streamized.net/img/hitsmovies.png" group-title="Movies, Entertainment & Knowledge", Hits Movies
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object.streamized.net/img/hitsmovies.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits Movies
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12a34fccac944a19a14101a9009dae05:2d1543668411b31aec7269d889d4821c
 https://atemecdnbalancer-voe.sysln.id/live/eds/HitsMoviesHD/mediampd/HitsMoviesHD.mpd
 
-#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object.streamized.net/img/hitsmovies.png" group-title="Movies, Entertainment & Knowledge", Hits Movies (Alternatif)
+#EXTINF:-1 tvg-id="HITSMovies" tvg-name="HITS Movies" tvg-logo="https://object.streamized.net/img/hitsmovies.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits Movies (Alternatif)
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -345,7 +345,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/de93893d01e6446daaf052a7fec694fc/in
 #KODIPROP:inputstream.adaptive.play_timeshift_buffer=0
 #KODIPROP:inputstream.adaptive.use_secure_decoder=true
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
-#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object.streamized.net/img/warner.webp" group-title="Movies, Entertainment & Knowledge", Warner TV
+#EXTINF:-1 tvg-id="Warner TV" tvg-name="Warner TV" tvg-logo="https://object.streamized.net/img/warner.webp" group-title="Movies, Entertainment, Animation & Knowledge", Warner TV
 https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -353,7 +353,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/warner/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbo.png", HBO
 https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -361,7 +361,7 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbo/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="Movies, Entertainment & Knowledge" tvg-logo="https://object.streamized.net/img/hbohits.webp", HBO Hits
+#EXTINF:-1 tvg-id="HBO.Hits.id" tvg-name="HBO Hits" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbohits.webp", HBO Hits
 https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
@@ -369,10 +369,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies, Entertainment & Knowledge" tvg-logo="https://object.streamized.net/img/hbosig.png", HBO Signature
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbosig.png", HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies, Entertainment & Knowledge" tvg-logo="https://object.streamized.net/img/hbofamily.png", HBO Family (No Sub)
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbofamily.png", HBO Family (No Sub)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -384,10 +384,10 @@ https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbofam/default/index.mp
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="Movies, Entertainment & Knowledge" tvg-logo="https://object.streamized.net/img/cinemax.png", Cinemax
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/cinemax.png", Cinemax
 https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object.streamized.net/img/axn.png" group-title="Movies, Entertainment & Knowledge", AXN
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object.streamized.net/img/axn.png" group-title="Movies, Entertainment, Animation & Knowledge", AXN
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -395,21 +395,21 @@ https://cdn10jtedge.indihometv.com/atm/DASH/cinemax/manifest.mpd
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://cdn10jtedge.indihometv.com/atm/DASH/axn/manifest.mpd
 
-#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object.streamized.net/img/axn.png" group-title="Movies, Entertainment & Knowledge", AXN (Alternatif)
+#EXTINF:-1 tvg-id="AXN.id" tvg-name="AXN" tvg-logo="https://object.streamized.net/img/axn.png" group-title="Movies, Entertainment, Animation & Knowledge", AXN (Alternatif)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2b095c9946d242cb9108e6a589a26072:8bc2cdfd0e86f7cfa935ef05978be229
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/index.mpd
 
-#EXTINF:-1 tvg-id="Originals" tvg-name="Originals" tvg-logo="https://object.streamized.net/img/originals.png" group-title="Movies, Entertainment & Knowledge", Originals
+#EXTINF:-1 tvg-id="Originals" tvg-name="Originals" tvg-logo="https://object.streamized.net/img/originals.png" group-title="Movies, Entertainment, Animation & Knowledge", Originals
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=33333f38930949b1af65b3361ad80d1d:b159847f9af0500738b01e91cf023e30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
-#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://object.streamized.net/img/rockaction.png" group-title="Movies, Entertainment & Knowledge", Rock Action
+#EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://object.streamized.net/img/rockaction.png" group-title="Movies, Entertainment, Animation & Knowledge", Rock Action
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -421,10 +421,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://object.streamized.net/img/rockEntertainment.png" group-title="Movies, Entertainment & Knowledge", Rock Entertainment
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://object.streamized.net/img/rockEntertainment.png" group-title="Movies, Entertainment, Animation & Knowledge", Rock Entertainment
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
-#EXTINF:-1 tvg-id="CINEEDGE.id" tvg-name="CineEdge" tvg-logo="https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="Movies, Entertainment & Knowledge", CineEdge
+#EXTINF:-1 tvg-id="CINEEDGE.id" tvg-name="CineEdge" tvg-logo="https://www.visionplus.id/images/repository/699/498699-LOGO-m.png" group-title="Movies, Entertainment, Animation & Knowledge", CineEdge
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -432,14 +432,14 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/Rock
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/47c895ca72544fcfa4221c499b555a10/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://object.streamized.net/img/galaxy.png" group-title="Movies, Entertainment & Knowledge", Galaxy
+#EXTINF:-1 tvg-id="Galaxy.id" tvg-name="Galaxy" tvg-logo="https://object.streamized.net/img/galaxy.png" group-title="Movies, Entertainment, Animation & Knowledge", Galaxy
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfbae59795044563b5b9b4927a79a76e:ce57c9490bd772b390d78b9fedaf8d36
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/index.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="Galaxy.Premium.id" tvg-name="Galaxy Premium" tvg-logo="https://object.streamized.net/img/galaxypremium.png" group-title="Movies, Entertainment & Knowledge", Galaxy Premium
+#EXTINF:-1 tvg-id="Galaxy.Premium.id" tvg-name="Galaxy Premium" tvg-logo="https://object.streamized.net/img/galaxypremium.png" group-title="Movies, Entertainment, Animation & Knowledge", Galaxy Premium
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
@@ -448,31 +448,31 @@ https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/ind
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang" tvg-logo="https://object.streamized.net/img/arirang.png" group-title="Movies, Entertainment & Knowledge", Arirang
+#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang" tvg-logo="https://object.streamized.net/img/arirang.png" group-title="Movies, Entertainment, Animation & Knowledge", Arirang
 https://atemeshield1-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/ArirangHD/mediampd/ArirangHD.mpd
 
-#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang" tvg-logo="https://object.streamized.net/img/arirang.png" group-title="Movies, Entertainment & Knowledge", Arirang (Alternatif)
+#EXTINF:-1 tvg-id="Arirang.id" tvg-name="Arirang" tvg-logo="https://object.streamized.net/img/arirang.png" group-title="Movies, Entertainment, Animation & Knowledge", Arirang (Alternatif)
 #EXTVLCOPT:http-origin=https://tv.garden
 #EXTVLCOPT:http-referrer=https://tv.garden/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://object.streamized.net/img/one.png" group-title="Movies, Entertainment & Knowledge", ONE
+#EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://object.streamized.net/img/one.png" group-title="Movies, Entertainment, Animation & Knowledge", ONE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.15.1 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=be886ebe45024d4b80110269211b3adb:91b1858f34ece95c8377366fb87d99c4
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/9ec31bcce34848d69d4771270ff23ab9/index.mpd
 
-#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://object.streamized.net/img/celestialmovies.png" group-title="Movies, Entertainment & Knowledge", Celestial Movies
+#EXTINF:-1 tvg-id="CelestialMovies.id" tvg-name="Celestial Movies" tvg-logo="https://object.streamized.net/img/celestialmovies.png" group-title="Movies, Entertainment, Animation & Knowledge", Celestial Movies
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de4a383599bb4ec4a24f8c61f2b9a3ba:5166677d7f6797bcf459cf7c8b66dcb9
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/index.mpd
 
-#EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://www.visionplus.id/images/repository/779/522779-LOGO-m.png" group-title="Movies, Entertainment & Knowledge", CCM
+#EXTINF:-1 tvg-id="CCM.id" tvg-name="CCM" tvg-logo="https://www.visionplus.id/images/repository/779/522779-LOGO-m.png" group-title="Movies, Entertainment, Animation & Knowledge", CCM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.15.1 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1151,55 +1151,46 @@ https://starshare.st/live/P4B9TB9xR8/humongous2tonight/1001.ts
 #EXTINF:-1 tvg-chno="107" tvg-id="NBC.Sports.Philadelphia.HD.us2" tvg-name="NBC Sports Philadelphia" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s32571_dark_360w_270h.png" group-title="tipi sprot",NBC Sports Philadelphia
 http://hardcoremedia.xyz/live/rabdsbmz/3731346838/136477.ts
 
--- Animation Stuff --
-
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax HD" tvg-logo="https://object.streamized.net/img/animax.png" group-title="ih wibu",animeks hade media pertama
-#https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
-#https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mediampd/AnimaxHD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6f309276a94e45be89a8860159456e84:3fe2eec12885264556ca4e29aa6c0c40
-#EXTINF:-1 group-title="ih wibu" tvg-id="Animax HD" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/animax.png",animemeks karena burik beut
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://object.streamized.net/img/animax.png", Animax
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/ab3ef0f0e4144c3c8b7e60f1873a3bcc/index.mpd
+
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="animax" tvg-logo="https://object.streamized.net/img/animax.png", Animax (Japan)
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
+https://nl.utako.moe/Animax/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
-#EXTINF:-1 tvg-id="Aniplus.id" tvg-name="ID: AniPlus" tvg-logo="https://object.streamized.net/img/aniplus.png" group-title="ih wibu",animeplus-plus mono indijomok pelit
+#EXTINF:-1 tvg-id="Aniplus" tvg-name="Aniplus" tvg-logo="https://object.streamized.net/img/aniplus.png" group-title="Movies, Entertainment, Animation & Knowledge", Aniplus
 https://cdn08jtedge.indihometv.com/dassdvr/134/aniplus/manifest_wuseetv.mpd
-
-#EXTINF:-1 group-title="ih wibu" tvg-id="animax" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Animax.svg/1920px-Animax.svg.png", animeks langsung dari sumber alias dari jepun aseli
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec31647c5c3b490bbb5c840ca3e96c9e:a28271a4ba4d085efa1f7738e0f82ea1
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36 
-#EXTINF:-1 tvg-id="KidsTV.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object.streamized.net/img/kidstv.png" group-title="kartun uhuy",kids tipi
+#EXTINF:-1 tvg-id="KidsTV.id" tvg-name="Kids TV" tvg-logo="https://object.streamized.net/img/kidstv.png" group-title="Movies, Entertainment, Animation & Knowledge", Kids TV
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/9041826689ae4f9c9619576d411fa989/index.mpd
 
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/mentaritv.png" group-title="kartun uhuy",mentari tepeh
+#EXTINF:-1 tvg-id="Mentari TV.id" tvg-name="Mentari TV" tvg-logo="https://object.streamized.net/img/mentaritv.png" group-title="Movies, Entertainment, Animation & Knowledge", Mentari TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=340ff241ff754b038f07096e17104cdc:839bdf4f1523661ba61df2dc219878a3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/703a71abac3844748b1e68166242d4f3/index.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi tipi kartun gak laku ada wm youtv walawe
-https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1 tvg-id="VTV" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="kartun uhuy",vitipi no wm butuh internet nasa
+#EXTINF:-1 tvg-id="viva.id" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Movies, Entertainment, Animation & Knowledge", VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 http://202.169.224.202:8800/udp/239.9.1.39:1234
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
+#EXTINF:-1 tvg-id="viva.id" tvg-logo="https://object.streamized.net/img/vtv.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Movies, Entertainment, Animation & Knowledge", VTV (Alternatif)
+https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="kartun uhuy" tvg-id="Cartoon Network", cartoon network indihomok
+#EXTINF:-1 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="Cartoon Network", Cartoon Network (Mono Audio)
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1208,12 +1199,12 @@ http://202.169.224.202:8800/udp/239.9.1.39:1234
 #KODIPROP:inputstream.adaptive.license_key=https://kelontong.semar.my.id/indick.kt
 https://cdn08jtedge.indihometv.com/dassdvr/134/cartoonnetwork/manifest_wuseetv.mpd
 
-#EXTINF:-1 tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="kartun uhuy", cartoon network wm cg
+#EXTINF:-1 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="Movies, Entertainment, Animation & Knowledge", Cartoon Network (Alternatif/Philippines)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a2d1f552ff9541558b3296b5a932136b:cdd48fa884dc0c3a3f85aeebca13d444
 https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cartoonnetworkhd/default/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="kartun uhuy",cartoon network tapi khabunkhap
+#EXTINF:-1 #EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object.streamized.net/img/cartoonnetwork.png" group-title="Movies, Entertainment, Animation & Knowledge", Cartoon Network (Alternatif/Thailand)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f140b94c73ab4ef5b96da7f49afb1154:85e4ef232c6e460f888eb20f651d66e3
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
@@ -1222,19 +1213,19 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/301/301.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=676b60c2b84b49b6b316207a590203e4:da9878a96062ea105895f310e052fa7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjCI7DQRt-B39F8y2Tb6IJr0_0uAhEE-4LjiH_2PQ5E0OxXRTCfVUhwNg7pq_d3sKigz8GaIQGuKhxI7K7Ki0BM12y8SYxRjjL_1NtjGBXfPeSio2b8SJHye9JZ2vN-BhO1CjKil2Ft0ggAEq8ZYOflAL1U704t3aymI9aaLxzgzfLuU4rA5bklqR0IxNwa/s700/NICKELODEON.png" group-title="kartun uhuy",nickelodeon burik
+#EXTINF:-1 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://object.streamized.net/img/nicklodeon.png" group-title="Movies, Entertainment, Animation & Knowledge", Nicekelodeon
 https://d2tjypxxy769fn.cloudfront.net/out/v1/3fe6d9eb97ed455c942eb8d3d1c2c2e8/index.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://object.streamized.net/img/nicklodeon.png" group-title="kartun uhuy",nickelodeon sawadikap
+#EXTINF:-1 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://object.streamized.net/img/nicklodeon.png" group-title="Movies, Entertainment, Animation & Knowledge", Nickelodeon (Alternatif/Thailand)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9130a6448a74430794d355b48b56a64c:c2f4d3288cdb43cf81e519ceb414dd6f
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/303/303.mpd
 
-#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://www.deviantart.com/gamer8371/art/Nicktoons-1991-wordmark-white-975519236" group-title="kartun uhuy",nicktoons nonstop spogob
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="Movies, Entertainment, Animation & Knowledge", Nicktoons
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 http://41.205.93.154/NICKTOONS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.deviantart.com/gamer8371/art/Nicktoons-1991-wordmark-white-975519236" group-title="kartun uhuy",nicktoons blyat
+#EXTINF:-1 tvg-id="Nicktoons.mv" tvg-name="Nicktoons" tvg-logo="https://8upload.com/image/681f402bc8357/nicktoonshilay.png" group-title="Movies, Entertainment, Animation & Knowledge", Nicktoons (Rusia)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3161c6c45076419fbbc333c277a22f65:18827aad7e2e79e526f529fd5027cb47
 https://v4-pan-n79-cdn-01.live.cdn.cgates.lt/live/dash/561208/index.mpd
