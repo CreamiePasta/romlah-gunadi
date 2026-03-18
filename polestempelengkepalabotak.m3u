@@ -11,6 +11,36 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 
 Ini hanyalah untuk test. Tidak untuk disalahgunakan.
 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 1
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/131990.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 2
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/5766.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 3
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/33579.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 4
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/132016.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 5
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/33670.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/d/d1/Prambors.svg/250px-Prambors.svg.png" group-title="Music Test", Musik 6
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/33550.m3u8
+
 #EXTINF:-1 tvg-id="HBOHits" tvg-url="https://raw.githubusercontent.com/joii89/iptv-joii/refs/heads/main/mncvision.id.channels.xml" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAIltqKkFxtPon4495aSflkFr8E2xiYIqOSkX0tKRxWJG-cjpL7G6_wjkF&s=10" group-title="Playlist🇮🇩", HBO Hits
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
