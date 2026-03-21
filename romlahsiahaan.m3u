@@ -333,6 +333,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CrimeInvestigationHD/mediampd/Cri
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/dc63bd198bc44193b570e0567ff5b22c/index.mpd
 
+#EXTINF:-1 tvg-id="SUPRERRIX.id" tvg-name="Superrix" tvg-logo="https://www.visionplus.id/images/repository/701/498701-LOGO-m.png group-title="Movies, Entertainment, Animation & Knowledge", Superrix
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1dc30f49888c4652897d9c998aa2cac1:8ccb6857157c1a01c5a47eb853f51aa2
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://d2tjypxxy769fn.cloudfront.net/out/v1/782400332c96440598260730a864bc6f/index.mpd
+
 #EXTINF:-1 tvg-id="HITS.id" tvg-name="HITS" tvg-logo="https://object.streamized.net/img/hits.png" group-title="Movies, Entertainment, Animation & Knowledge", Hits
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -444,6 +450,13 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/456143d3b12140e1a872b25f067ddb62/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/e992e986a88346c18a5dcc4fbcdae6b9/index.mpd
 
+#EXTINF:-1 tvg-id="UNIQUES.id" tvg-name="Uniques" tvg-logo="https://www.visionplus.id/images/repository/703/498703-LOGO-m.png" group-title="Movies, Entertainment, Animation & Knowledge", Uniques
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5a6668f3a5d64338bce13307e5c570be:d0c76237c5ee38e7a420e9c83323023e
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/bde0a6d8d3fd4d77ae5093ad2e6699dc/index.mpd
+
 #EXTINF:-1 tvg-id="ROCKAction.id" tvg-name="ROCK Action" tvg-logo="https://object.streamized.net/img/rockaction.png" group-title="Movies, Entertainment, Animation & Knowledge", Rock Action
 #KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
@@ -537,6 +550,13 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/fd25e662b7154c60a94f7c061573ba2d/in
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=974d4fb195224f66a2271de806e62018:0e92ec1a28d59da80161c3541c6eb8eb
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/6bdbe6ce7f034807aba5f09bed048b05/index.mpd
+
+#EXTINF:-1 tvg-id="Hanacaraka.TV.id" tvg-logo="https://www.visionplus.id/images/repository/261/514261-LOGO-m.png" group-title="Movies, Entertainment, Animation & Knowledge", Hanacaraka TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) ExoPlayerLib/2.15.1 AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0de1f882d278465abdba73a8b4cb2bda:7061f5e1115d6ef504726c3faa8bf146
+https://d1vckova5fh9mt.cloudfront.net/out/v1/17c724036c5f4615bd0b8093126b5c44/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
@@ -636,7 +656,7 @@ https://d2tolhxlph2dpt.cloudfront.net/out/v1/c9fb5f5167e44548adb1f92ad17abf46/7b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://d2tolhxlph2dpt.cloudfront.net/out/v1/02f67235c733499b947a8586b93757fb/7b05bbbb935a4a58a9eb9efab9393708/42d9b0ef42fb4cd2926040f58263ed39/index.mpd
 
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="Vision+ VOD", Shrek 2
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/112/352112-BACKGROUND-m.jpg" group-title="VOD", Shrek 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21fb01816c7b48cd83e84063f2f4d230:21f7b202e62808eb53de68b4b6c1cab4
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
