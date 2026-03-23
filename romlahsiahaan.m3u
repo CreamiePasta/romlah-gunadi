@@ -445,7 +445,16 @@ https://cdn10jtedge.indihometv.com/atm/DASH/hbohits/manifest.mpd
 #EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbosig.png", HBO Signature
 https://cdn10jtedge.indihometv.com/atm/DASH/hbosignature/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbofamily.png", HBO Family (No Sub)
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbofamily.png", HBO Family
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/hbofamily-avc1_2500000=7-3277707030000000.mpd
+https://cdn10jtedge.indihometv.com/atm/DASH/hbofamily/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object.streamized.net/img/hbofamily.png", HBO Family (Alternative/No Sub)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -834,16 +843,16 @@ https://d3b0v7fggu5zwm.cloudfront.net/out/v1/113af3d432214f62bd6815f976bf2cd6/in
 #EXTINF:-1 tvg-chno="131" tvg-id="SkySp.News.HD.uk" tvg-name="Sky Sports News" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JYG2.png_dark_360w_270h.png" group-title="Sky Sports",Sky Sports News
 https://starshare.st/live/P4B9TB9xR8/humongous2tonight/23.ts
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Main Event (1)
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="Sky Sports Main Event FHD" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Main Event
 https://a1xs.vip/2000001
 
-#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Main Event (2)
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Main Event (Alternative)
 https://7pal.short.gy/SkSpMainE
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Action (1)
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Action
 https://a1xs.vip/2000011
 
-#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Action (2)
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Action (Alternative)
 https://7pal.short.gy/ssportsat
 
 #EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="Sky Sports Mix FHD" tvg-logo="https://object.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Mix
@@ -867,11 +876,11 @@ http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 http://ott.premium-tv.org:80/live/wonton57/874893/89662.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=6958" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League (United Kingdowm/1)
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=6958" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League (United Kingdom)
 https://a1xs.vip/2000002
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League (United Kingdom/2)
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" group-title="Sky Sports", Sky Sports Premier League (United Kingdom/Alternative)
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883272.m3u8
 
@@ -954,15 +963,29 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
 
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/astro.png" group-title="Sports",Astro Premier League
+#EXTINF:-1 tvg-id="AstroPremierLeague" tvg-name="Astro Premier League" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/astro.png" group-title="Sports", Astro Premier League
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29151.m3u8
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1159.m3u8
 
 #EXTM3U
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
-#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/astro.png" group-title="Sports",Astro Premier League 2
+#EXTINF:-1 tvg-id="AstroPremierLeague2" tvg-name="Astro Premier League 2" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://object.streamized.net/img/astro.png" group-title="Sports", Astro Premier League 2
 https://a1xs.vip/1100031
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png" group-title="Sports", Astro Football
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1080431.m3u8
+
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Astro_Arena_1_%282024%29.png/960px-Astro_Arena_1_%282024%29.png" group-title="Sports", Astro Arena
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/34436.m3u8
 
 # NBA TV #
 
