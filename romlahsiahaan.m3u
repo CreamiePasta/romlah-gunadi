@@ -43,7 +43,6 @@ http://103.66.62.83:8000/play/a00r/index.m3u8
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=500000
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7621.m3u8
-http://iptv.kilas7.com/live/kaukia/asdfrewq/7.m3u8
 
 #EXT-X-VERSION:3
 #EXT-X-INDEPENDENT-SEGMENTS
@@ -1486,6 +1485,14 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
+
+#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 1 (English)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30642.m3u8
+
+#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 1 (English)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30643.m3u8
 
 #KODIPROP:inputstream.adaptive.stream_selection_type=adaptive
 #KODIPROP:inputstream=ffmpegdirect
