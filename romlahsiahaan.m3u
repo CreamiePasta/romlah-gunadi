@@ -1266,6 +1266,55 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports1.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 1 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4011.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/7866.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/953610.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/77.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports2.qa" tvg-logo="https://object.streamized.net/img/beinsports2.png",beIN Sports 2 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/59.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/953609.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/78.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports3.qa" tvg-logo="https://object.streamized.net/img/beinsports3.png",beIN Sports 3 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/4009.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/60.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/79.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports4.qa" tvg-logo="https://object.streamized.net/img/beinsports4.png",beIN Sports 4 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/48.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/66.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports5.qa" tvg-logo="https://object.streamized.net/img/beinsports5.png",beIN Sports 5 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/49.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/67.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports6.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 6 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/50.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/68.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports7.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 7 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/51.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/69.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports8.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 8 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/52.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/70.m3u8
+
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports9.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 9 (Arab)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/53.m3u8
+http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/71.m3u8
+
 #EXTINF:-1 group-title="beIN Sports" tvg-id="beINSportsEnglish1.qa" tvg-logo="https://object.streamized.net/img/beinsports.png",beIN Sports 1 (English)
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
@@ -1306,6 +1355,10 @@ http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/81.m3u8
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={"4281ee112555097325058cb7355035b4": "1a88899547f7fd4a5c22ee8150d89208", "b4023d3a71316ed3cd06af7e43988d31": "91a96d592dd6e946b0f0074d15ac1168", "441100b7de65d7c582a9c71140e46f79": "ef37dadc14bdade17224ef4bc9f87ce6", "43faba2da98eeeeb42481dca873d3460": "f8b58939398e5a5574c18408d304d44e", "92e8cc9527c7f56a10777278cb801027": "4ce3f3e2234f00b21ba77006f197832a"}
 https://api-proxad.dc2.oqee.net/playlist/v1/live/971/1/live.mpd
+
+#EXTINF:-1 tvg-logo="https://object.streamized.net/img/beinsports3.png" group-title="beIN Sports" radio="false",beIN Sports 3 (France/Alternative)
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/226.m3u8
 
 #EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-logo="https://object.streamized.net/img/beinsports.png" group-title="beIN Sports", beIN Sports MAX 4 (France)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -1426,7 +1479,7 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="Sports",TSN The Ocho
+#EXTINF:-1 tvg-id="TSNTheOcho.ca@SD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA1400003R3_20240709T002034SQUARE.png" group-title="TSN & ESPN",TSN The Ocho
 https://d3pnbvng3bx2nj.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-rds8g35qfqrnv/TSN_The_Ocho.m3u8
 
 #EXTINF:-1 tvg-chno="47" tvg-id="ESPNews.us" tvg-name="ESPNews" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" group-title="TSN & ESPN",ESPN News (United States)
@@ -1486,11 +1539,11 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/ry1hll2vi2/
 #KODIPROP:inputstream.adaptive.license_key=8bcec6b31cc9edcb6768ab26548e22c3:e3c5b07328894c33734a4de6ae55a87f
 https://ac-003.live.p7s1video.net/63f8995e/t_003/dazn-fast-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 1 (English)
+#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 1
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30642.m3u8
 
-#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 1 (English)
+#EXTINF:-1 tvg-id="DAZN.1.en" tvg-logo="https://avatars.githubusercontent.com/u/21194695?s=200&v=4" group-title="Sports",DAZN 2
 #EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
 http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/30643.m3u8
 
