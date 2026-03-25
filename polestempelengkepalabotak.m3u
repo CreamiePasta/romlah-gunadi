@@ -17,7 +17,7 @@ Ini hanyalah untuk test. Tidak untuk disalahgunakan.
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1443c25b38e58478ee28628bcd9eb29b:74eaa28cbcf24bafb4c8089abd018a63
+#KODIPROP:inputstream.adaptive.license_key=74eaa28cbcf24bafb4c8089abd018a63:1443c25b38e58478ee28628bcd9eb29b
 https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest.mpd
 
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="tvN Movies" tvg-logo="https://object.streamized.net/img/tvnmovies.png" group-title="Movies, Entertainment, Animation & Knowledge", TVN Movies (Alternative)
@@ -26,7 +26,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/animax/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=37717782418736b919d64cbb078a5bff:ad97a7abab314cf8963e0c44d2c321eb
+#KODIPROP:inputstream.adaptive.license_key=ad97a7abab314cf8963e0c44d2c321eb:37717782418736b919d64cbb078a5bff
 https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpd
 
 #EXTINF:-1 tvg-id="ONE.id" tvg-name="ONE" tvg-logo="https://object.streamized.net/img/one.png" group-title="Movies, Entertainment, Animation & Knowledge", ONE
@@ -35,5 +35,5 @@ https://cdn08jtedge.indihometv.com/dassdvr/130/tvnmovies/manifest.mpd
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=df19614d4f9f9fe836590d8d98ab2699:94916fa7ad4c44ad83b1175956adaa05
+#KODIPROP:inputstream.adaptive.license_key=94916fa7ad4c44ad83b1175956adaa05:df19614d4f9f9fe836590d8d98ab2699
 https://cdn08jtedge.indihometv.com/dassdvr/134/sone/manifest.mpd
