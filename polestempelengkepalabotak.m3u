@@ -23,6 +23,12 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VHJhbnNUVg/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
 https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFJBTlM3LW15/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://servicebuss.transvision.co.id/hospitality/v1/files/channel_image/1371ddca-87d4-4f9e-8cf7-c6e8ca9a444b.png" group-title="Film", TVN Movies
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d4b636034b944d7c987871a3fdd25de4:a8294f4899a34cdb9429c49bc531d7d8
+https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZOIE1vdmllcw/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/567/679567-BACKGROUND-m.jpg" group-title="VOD", Madagascar
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fee7f0e6bf74870876c81dbcedd643b:1a71df940772b8b8e220f0c14c74894c
