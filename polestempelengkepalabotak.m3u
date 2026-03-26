@@ -10,3 +10,22 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
 
 Ini hanyalah untuk test. Tidak untuk disalahgunakan.
+
+#EXTINF:-1 tvg-name="TNT Sports 1" tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="Sports",TNT Sports 1
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/844265.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/2238.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 2" tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="Sports",TNT Sports 2
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/2237.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 3" tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="Sports",TNT Sports 3
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/1098.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/2236.m3u8
+
+#EXTINF:-1 tvg-name="TNT Sports 4" tvg-logo="https://object.streamized.net/img/tntsports.png" group-title="Sports",TNT Sports 4
+#EXT-X-STREAM-INF:BANDWIDTH=500000,RESOLUTION=1920x1080
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/29035.m3u8
+http://EXM3U.extraott.com:80/live/6JG6WQTK/1RS973F7/883276.m3u8
