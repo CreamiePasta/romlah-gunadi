@@ -118,7 +118,7 @@ http://103.66.62.83:8000/play/a00y/index.m3u8
 #EXTINF:-1 tvg-id="iNews.IPTV" tvg-name="iNews" tvg-logo="https://object.streamized.net/img/inews.png" group-title="Indonesia (Digital)", iNews
 http://103.66.62.83:8000/play/a00d/index.m3u8
 
-#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://object.streamized.net/img/mdtv.png" group-title="Indonesia (IPTV)", MDTV
+#EXTINF:-1 tvg-name="MDTV" tvg-logo="https://object.streamized.net/img/mdtv.png" group-title="Indonesia (Digital)", MDTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 https://wahyu1ptv.pages.dev/MDTV-HD.m3u8
 
