@@ -644,6 +644,14 @@ https://cdn10jtedge.indihometv.com/atm/DASH/ROCK_ACTION/manifest.mpd
 #EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/rockEntertainment.png" group-title="Movies, Entertainment, Animation & Knowledge", Rock Entertainment
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mediampd/RockEntertainmentHD.mpd
 
+#EXTINF:-1 tvg-id="ROCKEntertainment.id" tvg-name="ROCK Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/rockEntertainment.png" group-title="Movies, Entertainment, Animation & Knowledge", Rock Entertainment (Alternative)
+#KODIPROP:inputstream.adaptive.stream_headers=Origin=https://www.indihometv.com
+#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://www.indihometv.com
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=Connection=keep-alive
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1& Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://cdn10jtedge.indihometv.com/atm/DASH/rock_entertainment/manifest.mpd
+
 #EXTINF:-1 tvg-id="MTV.-.Music.Television.HD.us2" tvg-name="MTV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10986_dark_360w_270h.png" group-title="Movies, Entertainment, Animation & Knowledge", MTV
 http://23.237.104.106:8080/USA_MTV/index.m3u8
 
@@ -667,6 +675,19 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/751a0982779f4edd904205eb351e220d/in
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d9539db24004da9ac36ea49a09e255c:30304533b5008ad7f33c25f225506bc0
 https://d84q7nw4qf3j3.cloudfront.net/out/v1/45c0752c6b6b4397b80243ac9fed96fd/index.mpd
+
+#EXTVLCOPT:http-referrer=https://maxstream.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.stream_headers=User-Agent=|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi", KIX
+https://cdn10jtedge.indihometv.com/atm/DASH/kix/kix-avc1_2500000=7-3277707030000000.mpd
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/ 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=85f74e4d84834605a4b01820091ea627:c2881a45f94ec6ecbec1303f4e3b1fd6
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-id="KIX" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" tvg-logo="https://static.wikia.nocookie.net/logos/images/2/21/KIX_HD.png/revision/latest?cb=20220216043203&path-prefix=vi", KIX (Alternative)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/7a50d44c0a154dd29880c3728fb49a56/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ea468ed546bd4f94b9fd8355d5656997:a3b8756a947905cb44c997b656ffb012
@@ -713,7 +734,7 @@ https://cdnjktbpid22.transvision.co.id/riutx01/dash/VFZOIE1vdmllcw/manifest.mpd
 https://d2tjypxxy769fn.cloudfront.net/out/v1/096d5cf064294e7ea3a7f59ee2899669/index.mpd
 
 #EXTINF:-1 tvg-id="TvNMovies" tvg-name="tvN Movies" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png" group-title="Movies, Entertainment, Animation & Knowledge", TVN Movies (Alternative/2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
+#EXTVLCOPT:http-user-agent=Mozila/5.0 (Windows NT 10.0; Win64; x64; rv:145.0) Gecko/20100101 Firefox/145.0
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -819,6 +840,17 @@ https://cdn10jtedge.indihometv.com/atm/DASH/maxstreak/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=e27444f671974cefbb5063444ff91ce7:aa4dbc164e4083486b74462b025c42d5
 #EXTINF:-1 tvg-id="Max.Kids.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXKids_2026_01_31_00_41_18.jpg" group-title="Movies, Entertainment, Animation & Knowledge", Max Kids
 https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC
+#EXTVLCOPT:http-referrer=https://www.visionplustv.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
+https://d3b0v7fggu5zwm.cloudfront.net/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
+
+#EXTINF:-1 group-title="Movies, Entertainment, Animation & Knowledge" tvg-logo="https://object-streamo.emonaja.com/img/imc.png", IMC (Alternative)
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=1d7ddbeb304e46f38192f31d7d91bfc5:1c524bbe404124d0a4e24bfa75491ca2
+https://cdn08jtedge.indihometv.com/dassdvr/130/imc/manifest.mpd
 
 #EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://id.wikipedia.org/wiki/Berkas:Bioskop_Indonesia_TV.png" group-title="Movies, Entertainment, Animation & Knowledge", Bioskop Indonesia
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -1674,7 +1706,7 @@ https://mega.z5cable.com/bpk-tv/espn_plus_hd/default/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Movies, Entertainment, Animation & Knowledge", Max Sports
+#EXTINF:-1 tvg-id="Max.Sports.id" tvg-logo="https://images.indihometv.com/images/channels/imageCir_180x180_CLMAXSports_2026_01_31_00_39_38.jpg" group-title="Sports", Max Sports
 https://cdn08jtedge.indihometv.com/dassdvr/194/useesport/manifest.mpd
 
 #EXTINF:-1 tvg-id="MUTV.uk" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QW1lcmljYS9FZG1vbnRvbg%3D%3D&date=20260316&channel_id=406899" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1834.png" group-title="Sports", MUTV
