@@ -1199,73 +1199,83 @@ https://a1xs.vip/120004
 https://a1xs.vip/120002
 
 #EXTINF:-1 tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 1 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122505.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aefc2c8d1c8840f1b6981f856c9269ba:cf8ea114c45b4d6596b2748258ab74d6
+https://sky-nz.b-cdn.net/skysport1/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 1 NZ" tvg-id="SKY.Sport.1.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 1 NZ (Alternative)
 https://a1xs.vip/700031
 
 #EXTINF:-1 tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 2 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122504.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=708a98b352bd4418a73a028edd84da8f:b1fa5c2bca4c4b57b924b748564532cb
+https://sky-nz.b-cdn.net/skysport2/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 2 NZ" tvg-id="SKY.Sport.2.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 2 NZ (Alternative)
 https://a1xs.vip/700032
 
 #EXTINF:-1 tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 3 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122503.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2e2636daa74141b68cc14882ea3ff82b:0961f48287324adbb4b7ff3c9d82b3c9
+https://sky-nz.b-cdn.net/skysport3/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 3 NZ" tvg-id="SKY.Sport.3.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 3 NZ (Alternative)
 https://a1xs.vip/700033
 
 #EXTINF:-1 tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 4 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122502.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=278b8746b7c7410e901af0aa3774f037:15e1142d647b474ebbd49e41efa2a9d7
+https://sky-nz.b-cdn.net/skysport4/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 4 NZ" tvg-id="SKY.Sport.4.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 4 NZ (Alternative)
 https://a1xs.vip/700034
 
 #EXTINF:-1 tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 5 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122501.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdd24dd2c6c14126ad7c1ad1066b03dd:08289c6d57d54e8d8dca55e1862afb82
+https://sky-nz.b-cdn.net/skysport5/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 5 NZ" tvg-id="SKY.Sport.5.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 5 NZ (Alternative)
 https://a1xs.vip/700035
 
 #EXTINF:-1 tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 6 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122500.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e87521b3dfa44ed9ba004012dcb89172:bba9734a9d724531bbab7ef5d64ca1f8
+https://sky-nz.b-cdn.net/skysport6/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 6 NZ" tvg-id="SKY.Sport.6.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 6 NZ (Alternative)
 https://a1xs.vip/700036
 
 #EXTINF:-1 tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 7 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122499.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=af95024eda94455e922b90a39a3af93e:852e715ef4064b05b8e1cdee285648b5
+https://sky-nz.b-cdn.net/skysport7/master.mpd
 
 #EXTINF:-1 tvg-name="SKY Sport 7 NZ" tvg-id="SKY.Sport.7.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 7 NZ (Alternative)
 https://a1xs.vip/700037
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=406527" tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 8 NZ Premier League
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122498.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=7a2758575dc04d63acc3573ab594d441:47071dd80de746a38cdc6a4dcde21abc
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+https://sky-nz.b-cdn.net/skysport8/master.mpd
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=406527" tvg-name="SKY Sport 8 NZ" tvg-id="SKY.Sport.8.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 8 NZ Premier League (Alternative)
 https://a1xs.vip/700008
 
 #EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=406575" tvg-name="SKY Sport 9 NZ" tvg-id="SKY.Sport.9.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports 9 NZ
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2200000
-http://exm3u.extraott.com:80/live/6JG6WQTK/1RS973F7/122497.m3u8
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=72002c630e2343849984b5d3ec418162:ae6f8e3ff42a4963ae25686cca56c8e8
+https://sky-nz.b-cdn.net/skysport9/master.mpd
+
+#EXTINF:-1 tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=406575" tvg-name="SKY Sport Select NZ" tvg-id="SKY.Sport.Select.nz" tvg-logo="https://dash.streamized.net/img/skysports.png" group-title="Sky Sports", Sky Sports Select
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=01d02c97d1c949f9877acd230dcaa56d:708410b8bf1f4e998931183e8fab5d1e
+https://sky-nz.b-cdn.net/skysportselect/master.mpd
+
 
 # NBA TV #
 
@@ -1570,7 +1580,7 @@ https://otte.live.fly.ww.aiv-cdn.net/syd-nitro/live/clients/dash/enc/8m8cd46i1t/
 #KODIPROP:inputstream.adaptive.license_key=7995c724a13748ed970840a8ab5bb9b3:67bdaf1e2175b9ff682fcdf0e2354b1e
 https://a122aivottlinear-a.akamaihd.net/OTTB/syd-nitro/live/clients/dash/enc/q4u5nwaogz/out/v1/18de6d3e65934f3a8de4358e69eab86c/cenc.mpd
 
-#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports.qa" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png",beIN Sports (Arab)
+#EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports.qa" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png",beIN Sports (Qatar)
 http://opplextv.cyou:8080/nasir6160/nasir/381327
 
 #EXTINF:-1 group-title="beIN Sports" tvg-id="beINSports1.qa" tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png",beIN Sports 1 (Arab)
