@@ -1,8 +1,8 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/doms9/iptv/refs/heads/default/M3U8/TV.xml, https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml.gz" refresh="24" billed-msg="Menurut Gemini, ini channel-channel yang nayangin Piala Dunia 2026"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml, https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://www.open-epg.com/files/indonesia1.xml, https://www.open-epg.com/files/indonesia2.xml, https://www.open-epg.com/files/indonesia3.xml, https://www.open-epg.com/files/indonesia4.xml, https://www.open-epg.com/files/indonesia5.xml, https://www.open-epg.com/files/indonesia6.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://i.mjh.nz/SamsungTVPlus/all.xml.gz" refresh="24" billed-msg="Menurut Gemini, ini channel-channel yang nayangin Piala Dunia 2026"
 
 -- Warning --
 
-For sports enthusiasts. All the channels provided here are just sports channels.
+For World Cup enthusiasts.
 
 Comot tinggal comot, gak usah malu gak usah gengsi.
 
@@ -22,12 +22,6 @@ Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicar
 Awas kalo dijual. Ini gratis, semua link didapat dari source publik dengan dicari secara mamual dan tidak berbayar.
 
 -- Note --
-
-Semua link dari playlist ini diambil langsung dari source provider utama, juga dari public source yang tersedia di internet dan kami tidak mengambil hak cipta dari siapapun ataupun mengklaim hak cipta dari pihak pemilik utama.
-Semua link dari playlist ini diambil langsung dari source provider utama, juga dari public source yang tersedia di internet dan kami tidak mengambil hak cipta dari siapapun ataupun mengklaim hak cipta dari pihak pemilik utama.
-Semua link dari playlist ini diambil langsung dari source provider utama, juga dari public source yang tersedia di internet dan kami tidak mengambil hak cipta dari siapapun ataupun mengklaim hak cipta dari pihak pemilik utama.
-Semua link dari playlist ini diambil langsung dari source provider utama, juga dari public source yang tersedia di internet dan kami tidak mengambil hak cipta dari siapapun ataupun mengklaim hak cipta dari pihak pemilik utama.
-Semua link dari playlist ini diambil langsung dari source provider utama, juga dari public source yang tersedia di internet dan kami tidak mengambil hak cipta dari siapapun ataupun mengklaim hak cipta dari pihak pemilik utama.
 
 Buat jajan es krim:v (gak wajib, tapi kalo ikhlas ya tentu terima kasih)
 https://trakteer.id/FormerMarsPresident/tip
@@ -169,10 +163,10 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/h9urpo3cwb/out/v1
 #KODIPROP:inputstream.adaptive.license_key=e853333da2c9196ea11374634231bc45:de2e2dbe818d78dfad07d6cd9a4c63d4
 https://otte.cache.aiv-cdn.net/bom-nitro/clients/dash/enc/jkcljgqbx8/out/v1/63bfa701559340f3a2a2cb1fccd24807/cenc.mpd
 
-#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="A1xmedia - UK Channels", BBC One (United Kingdom)
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" group-title="World Cup", BBC One (United Kingdom)
 https://xemzi.short.gy/1000001
 
-#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="A1xmedia - UK Channels", BBC Two (United Kingdom)
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two" tvg-logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png" group-title="World Cup", BBC Two (United Kingdom)
 https://xemzi.short.gy/1000002
 
 #EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/beinsports.png" group-title="World Cup" radio="false", beIN Sports 1 (France)
