@@ -1248,29 +1248,6 @@ http://41.205.93.154/NICKTOONS/index.m3u8
 
 -- Worldwide Sports --
 
-# Extreme Sports #
-
-#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://object-streamo.emonaja.com/img/redbulltv.png" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=527269" group-title="Sports", Red Bull TV
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-
-#EXTINF:-1 tvg-id="RedBullTV.at@DE" tvg-logo="https://object-streamo.emonaja.com/img/redbulltv.png" group-title="Sports", Red Bull TV (Germany)
-https://jmp2.uk/plu-5e7cb84a172a0f0007da69e4.m3u8
-
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Sports", Fight Sports
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
-https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
-
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Sports", Fight Sports (Alternative)
-https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
-
 # Vision+ Sports #
 
 #EXTINF:-1 tvg-id="SoccerChannel.id" tvg-name="Soccer Channel" tvg-logo="https://object-streamo.emonaja.com/img/soccerchannel.png" tvg-url="https://raw.githubusercontent.com/apistech/project/refs/heads/main/ApisTECH.xml" group-title="Sports", Soccer Channel
@@ -1356,7 +1333,7 @@ http://ott.premium-tv.org:80/live/wonton57/874893/89667.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=28000000
 http://ott.premium-tv.org:80/live/wonton57/874893/89662.m3u8
 
-#EXTINF:-1 tvg-name="Sky Sports Bundesliga" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="IZZIGO", Sky Sports Bundesliga (Mexico)
+#EXTINF:-1 tvg-name="Sky Sports Bundesliga" tvg-logo="https://object-streamo.emonaja.com/img/skysports.png" group-title="Sky Sports Family", Sky Sports Bundesliga (Mexico)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:149.0) Gecko/20100101 Firefox/149.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d8d5823d92a9ef9306a4cc4bd634b4b4:df9fbdaa0ef9e905b75f4692f213af19
@@ -2122,9 +2099,27 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v4kj8pI.png" group-title="Sports", Motorvision TV (France)
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883047
 
-#EXTINF:-1 group-title="VARIOUS SPORTS" group-logo="https://raw.githubusercontent.com/MayangTV/ya2m/master/20250615_180354.png" tvg-id="wrc-rallytv" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROcyh8R6qqcKL6IvWfNKTWLZYuFpvSmufhL-BBS4TgFtSbhGaVNLQZBzo&s=10",RALLY TV
+#EXTINF:-1 group-title="Sports" tvg-name="Rally TV" tvg-id="wrc-rallytv" tvg-logo="https://i.postimg.cc/WtLq2C7c/logo-Rally-Tv1.png", Rally TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://dms.redbull.tv/v5/destination/rallytv/07f960dc-fd36-466c-971f-64a597518b83/personal_computer/http/us/en_US/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Red Bull TV" tvg-logo="https://object-streamo.emonaja.com/img/redbulltv.png" tvg-url="https://epg.pw/api/epg.json?lang=en&timezone=QXNpYS9KYWthcnRh&date=20260316&channel_id=527269" group-title="Sports", Red Bull TV
+#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux; Android 15) Media3/1.6.0
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Sports", Fight Sports
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=2f4c7790660c4a0ea82f38ca1998da13:9186a4ec6c2c2af731de820bf517e4e0
+https://cdn08jtedge.indihometv.com/dassdvr/133/fightsport/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=aa00f320f06247dcaf8e3cea1fb07f44:6169dd042bb5e59d709272b614011bbb
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="Fight.Sports.id" tvg-name="Fight Sports" tvg-logo="https://www.visionplus.id/images/repository/658/658-LOGO-m.png" group-title="Sports", Fight Sports (Alternative)
+https://d2tjypxxy769fn.cloudfront.net/out/v1/73b7057c72da4615888a11b02a6cbb3c/index.mpd
 
 #EXTINF:-1 tvg-id="SporTV.br" tvg-name="SporTV" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Sports", SporTV
 #KODIPROP:inputstream=inputstream.adaptive
