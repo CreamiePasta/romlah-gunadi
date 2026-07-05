@@ -1,42 +1,96 @@
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg, https://www.open-epg.com/files/indonesia1.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" vod_library="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u" refresh="3600" billed-msg="All channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
 
-#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png", Trans TV
+#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Indonesia (IPTV)" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png", Trans TV (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_210}
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png", Trans 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="Indonesia (IPTV)" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png", Trans 7 (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_201}
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/axn.png", AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/axn.png", AXN (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_193}
 
-#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/one.png", ONE
-#KODIPROP:inputstream.adaptive.license_type=clearkey 
-#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-${GENERATED_MPD_207}
-
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png", tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png", tvN (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_194}
 
-#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png", tvN Movies
+#EXTINF:-1 tvg-id="KBS.World.id" tvg-name="KBS WORLD" tvg-logo="https://object-streamo.emonaja.com/img/kbsworld.png" group-title="Entertainment", KBS WORLD (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_206}
+
+#EXTINF:-1 tvg-logo="https://object-streamo.emonaja.com/img/warner.webp" tvg-name="Warner TV" group-title="Entertainment", Warner TV (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_235}
+
+#EXTINF:-1 tvg-id="BioskopIndonesia.id" tvg-name="Bioskop Indonesia" tvg-logo="https://i.imgur.com/BgSPo1W.png" group-title="Movies", Bioskop Indonesia (Transvision)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_230}
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbo.png", HBO (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_225}
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbohits.webp", HBO Hits (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_228}
+
+#EXTINF:-1 tvg-id="HBOSignature1" tvg-name="HBO Signature" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbosig.png", HBO Signature (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_226}
+
+#EXTINF:-1 tvg-id="HBOFamily1" tvg-name="HBO Family" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbofamily.png", HBO Family (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_109}
+
+#EXTINF:-1 tvg-id="Cinemax.id" tvg-name="CINEMAX" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/cinemax.png", Cinemax (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_190}
+
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png", tvN Movies (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 ${GENERATED_MPD_227}
 
-#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png", Kompas TV
+#EXTINF:-1 tvg-id="Cartoon.Network.id" tvg-name="Cartoon Network" tvg-logo="https://object-streamo.emonaja.com/img/cartoonnetwork.png" group-title="Kids & Animation", Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_120}
+
+#EXTINF:-1 tvg-id="MusikIndonesia.id" tvg-logo="https://i.postimg.cc/xdtkx9P0/musik-indo.png" group-title="Music", Musik Indonesia (Cubmu)
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_129}
+
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" group-title="News" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png", Kompas TV (Cubmu)
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
