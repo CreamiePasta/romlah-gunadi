@@ -1,40 +1,43 @@
 #EXTM3U url-tvg="https://warningfm.github.io/x1/epg/guide.xml.gz, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://raw.githubusercontent.com/AqFad2811/epg/refs/heads/main/indonesia.xml, https://tinyurl.com/DrewLive002-epg, https://www.open-epg.com/files/indonesia1.xml, https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz" vod_library="https://raw.githubusercontent.com/DinasKegelapanKotaKonoha/romlah-gunadi/refs/heads/main/romlahvodwleowleowleo.m3u" refresh="3600" billed-msg="All channel didapat dari berbagai source dan dicari secara manual. Update berkala jika ada channel menarik ;)"
 
-
-#EXTM3U
-
-#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Lokal" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png",Trans TV
+#EXTINF:-1 tvg-id="TransTV" tvg-name="Trans TV" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/transtv.png", Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/210/manifest.mpd
+${GENERATED_MPD_210}
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="Lokal" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png",Trans 7
+#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans 7" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/trans7.png", Trans 7
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/201/manifest.mpd
+${GENERATED_MPD_201}
 
-#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/axn.png",AXN
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/axn.png", AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/193/manifest.mpd
+${GENERATED_MPD_193}
 
-#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" group-title="Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/one.png",ONE
+#EXTINF:-1 tvg-id="ONE" tvg-name="ONE" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/one.png", ONE
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/207/manifest.mpd
+${GENERATED_MPD_207}
 
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="Entertainment" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png",tvN
+#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/tvn.png", tvN
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/194/manifest.mpd
+${GENERATED_MPD_194}
 
-#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png",tvN Movies
+#EXTINF:-1 tvg-id="tvNMovies" tvg-name="tvN Movies" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/tvnmovies.png", tvN Movies
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-https://tokenized-ottbridge-prod.streamized.net/live/trvsn/dash/227/manifest.mpd
+${GENERATED_MPD_227}
+
+#EXTINF:-1 tvg-id="KompasTv.id" tvg-name="Kompas TV" group-title="Cubmu Channel" tvg-logo="https://object-streamo.emonaja.com/img/kompastv.png", Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+${GENERATED_MPD_220}
