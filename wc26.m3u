@@ -91,6 +91,9 @@ ${GENERATED_MPD_235}
 ${GENERATED_MPD_230}
 
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbo.png", HBO (Cubmu)
+${GENERATE_MPD_HBO}
+
+#EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO" group-title="Movies" tvg-logo="https://object-streamo.emonaja.com/img/hbo.png", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=${CUBMU_CLEARKEY}
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
